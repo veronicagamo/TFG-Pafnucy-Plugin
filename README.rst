@@ -4,9 +4,7 @@
 ========================================
 Pafnucy Scipion Plugin
 ========================================
-**Documentation under development, sorry for the inconvenience**
-
-Scipion framework plugin for ligand–protein affinity prediction using the Pafnucy deep learning model.
+This plugin integrates the Pafnucy deep learning model into the Scipion framework to enable ligand–protein binding affinity prediction. It allows users to prepare protein–ligand complexes and apply the trained neural network to estimate binding strengths, streamlining virtual screening and prioritization within drug discovery workflows.
 
 ========================================
 Install this plugin
